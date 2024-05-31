@@ -1,0 +1,21 @@
+<div class="inner">
+    <ul class="primary">
+        <li class="">
+            <a href="/#shop" class="mobile-link">Shop</a>
+        </li>
+        <li class="">
+            <a href="/pages/about" class="mobile-link">About</a>
+        </li>
+    </ul>
+    <ul class="secondary">
+        <li class="">
+            <a href="/pages/privacypolicy" class="mobile-link">Privacy Policy</a>
+        </li>
+        <li class="">
+            <a href="/pages/terms-of-service" class="mobile-link">Terms of Sale</a>
+        </li>
+        <li class="">
+            <a href="/pages/about#contact" class="mobile-link">Contact Us</a>
+        </li>
+    </ul>
+</div>
